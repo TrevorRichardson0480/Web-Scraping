@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="497a2a08-d39e-4f4f-8090-dab687ae953a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/StockScrapin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/StockScrapin.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chardet-3.0.4.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet-3.0.4.dist-info/RECORD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-20.2.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-20.2.dist-info/RECORD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools-49.2.0.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools-49.2.0.dist-info/RECORD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/chardetect.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/chardetect.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/easy_install-3.8.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/easy_install-3.8.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/easy_install.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/easy_install.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pip.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip3.8.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pip3.8.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pip3.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stocks.py" beforeDir="false" afterPath="$PROJECT_DIR$/stocks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StockScrapinsavedSymbols.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../StockScrapinsavedSymbols.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,38 +78,38 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="422" y="165" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1596210281852" />
-    <state width="1348" height="281" key="GridCell.Tab.0.bottom" timestamp="1596243306993">
+    <state width="1348" height="215" key="GridCell.Tab.0.bottom" timestamp="1596323040892">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1348" height="281" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1596243306993" />
-    <state width="1348" height="281" key="GridCell.Tab.0.center" timestamp="1596243306993">
+    <state width="1348" height="215" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1596323040892" />
+    <state width="1348" height="215" key="GridCell.Tab.0.center" timestamp="1596323040892">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1348" height="281" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1596243306993" />
-    <state width="1348" height="281" key="GridCell.Tab.0.left" timestamp="1596243306992">
+    <state width="1348" height="215" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1596323040892" />
+    <state width="1348" height="215" key="GridCell.Tab.0.left" timestamp="1596323040892">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1348" height="281" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1596243306992" />
-    <state width="1348" height="281" key="GridCell.Tab.0.right" timestamp="1596243306993">
+    <state width="1348" height="215" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1596323040892" />
+    <state width="1348" height="215" key="GridCell.Tab.0.right" timestamp="1596323040892">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1348" height="281" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1596243306993" />
-    <state width="1348" height="281" key="GridCell.Tab.1.bottom" timestamp="1596243306993">
+    <state width="1348" height="215" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1596323040892" />
+    <state width="1348" height="281" key="GridCell.Tab.1.bottom" timestamp="1596320058222">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1348" height="281" key="GridCell.Tab.1.bottom/0.0.1368.872@0.0.1368.872" timestamp="1596243306993" />
-    <state width="1348" height="281" key="GridCell.Tab.1.center" timestamp="1596243306993">
+    <state width="1348" height="281" key="GridCell.Tab.1.bottom/0.0.1368.872@0.0.1368.872" timestamp="1596320058222" />
+    <state width="1348" height="281" key="GridCell.Tab.1.center" timestamp="1596320058222">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1348" height="281" key="GridCell.Tab.1.center/0.0.1368.872@0.0.1368.872" timestamp="1596243306993" />
-    <state width="1348" height="281" key="GridCell.Tab.1.left" timestamp="1596243306993">
+    <state width="1348" height="281" key="GridCell.Tab.1.center/0.0.1368.872@0.0.1368.872" timestamp="1596320058222" />
+    <state width="1348" height="281" key="GridCell.Tab.1.left" timestamp="1596320058222">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1348" height="281" key="GridCell.Tab.1.left/0.0.1368.872@0.0.1368.872" timestamp="1596243306993" />
-    <state width="1348" height="281" key="GridCell.Tab.1.right" timestamp="1596243306993">
+    <state width="1348" height="281" key="GridCell.Tab.1.left/0.0.1368.872@0.0.1368.872" timestamp="1596320058222" />
+    <state width="1348" height="281" key="GridCell.Tab.1.right" timestamp="1596320058222">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1348" height="281" key="GridCell.Tab.1.right/0.0.1368.872@0.0.1368.872" timestamp="1596243306993" />
+    <state width="1348" height="281" key="GridCell.Tab.1.right/0.0.1368.872@0.0.1368.872" timestamp="1596320058222" />
     <state x="186" y="81" key="SettingsEditor" timestamp="1596211301769">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
@@ -127,36 +118,5 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="348" y="185" width="672" height="678" key="search.everywhere.popup/0.0.1368.872@0.0.1368.872" timestamp="1596165346952" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/stocks.py</url>
-          <line>81</line>
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/stocks.py</url>
-          <line>82</line>
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/stocks.py</url>
-          <line>83</line>
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/stocks.py</url>
-          <line>68</line>
-          <option name="timeStamp" value="22" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/stocks.py</url>
-          <line>70</line>
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
