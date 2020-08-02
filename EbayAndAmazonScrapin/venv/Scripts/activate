@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\Trevor\Documents\Projects On Surface\Web-Scraping\StockScrapin\venv"
+VIRTUAL_ENV="C:\Users\trevo\Documents\Projects\PersonalProjects\Web-Scraping\EbayAndAmazonScrapin\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
